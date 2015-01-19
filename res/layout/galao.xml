@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        
+    <TextView
+    		 android:layout_width="fill_parent"
+    		 android:layout_height="0px"
+    		 android:layout_weight="1"
+    		 android:gravity="center"
+    		 android:text="GALAO"
+    		 android:textSize="25sp"
+    		 android:textStyle="bold" />
+    		 
+        
+	<include layout="@layout/milk" 
+			 android:layout_weight="2"
+			 android:layout_height="0px"  />
+	<include layout="@layout/plus" 
+			 android:layout_weight=".5"
+			 android:layout_height="0px"  />
+	<include layout="@layout/coffee"
+			 android:layout_weight="1" 
+			 android:layout_height="0px" />
+        
+	<TextView
+         	 android:layout_width="fill_parent"
+        	 android:layout_height="0px" 
+        	 android:layout_weight="1"
+        	 android:gravity="center"
+        	 android:textSize="20sp"
+        	 android:text="3/4 MILK\n1/4 COFFEE" />
+        
+     </LinearLayout>
+</LinearLayout>

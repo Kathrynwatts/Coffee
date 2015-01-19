@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">JAVA MIXING GUIDE</string>
+    <string-array name="coffeeTypes">
+        <item>Affogato</item>
+        <item>Americano</item>
+        <item>Antoccino</item>
+        <item>Black</item>
+        <item>Black Eye</item>
+        <item>Black Tie</item>
+        <item>Breve</item>
+        <item>Caf&#233; au lait</item>
+        <item>Caf&#233; Bomb&#242;n</item>
+        <item>Caf&#233; Melange</item>
+        <item>Caf&#233; Miel</item>
+        <item>Caf&#233; Mocha</item>
+        <item>Cafe Zorro</item>
+        <item>Caff&#232; Americano</item>
+        <item>Caff&#232; Latte</item>
+        <item>Caff&#232; Macchiato</item>
+        <item>Caff&#232; Marocchino</item>
+        <item>Caff&#232; Medici</item>
+        <item>Caff&#232; Tobio</item>
+        <item>Cappuccino</item>
+        <item>Carajillo</item>
+        <item>Chai Latte</item>
+        <item>Chemex</item>
+        <item>Clever</item>
+        <item>Cold Brew</item>
+        <item>Coole Swan and Coffee</item>
+        <item>Cortado</item>
+        <item>Doppio</item>
+        <item>Eiskaffee</item>
+        <item>Espressino</item>
+        <item>Espresso</item>
+        <item>Espresso Romano</item>
+        <item>Flat White</item>
+        <item>Gal&#227;o</item>
+        <item>Iced Coffee</item>
+        <item>Irish Coffee</item>
+        <item>Latte Macchiato</item>
+        <item>Liqueur Coffee</item>
+        <item>M&#233;lange</item>
+        <item>Palazzo</item>
+        <item>Pour Over</item>
+        <item>Red Eye</item>
+        <item>Red Tux</item>
+        <item>Turkish Coffee</item>
+        <item>v60</item>
+        <item>Vienna Coffee</item>
+    </string-array>
+    <string-array name="liqueur">
+        <item>Gaelic</item>
+        <item>Irish</item>
+    </string-array>
+        
+</resources>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CoffeeStyle" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">#30231F</item>
+        <item name="android:textColor">#CFC9B2</item>
+		<item name="android:textColorSecondary">#4A5E62</item>
+    </style>
+</resources>
